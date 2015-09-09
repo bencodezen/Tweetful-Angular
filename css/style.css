@@ -191,7 +191,12 @@ Masthead
 }
 
 .masthead {
-  padding: 6em 0;
+  padding: 3em 0;
+  line-height: 1.5;
+}
+
+.masthead h1 {
+  font-size: 3em;
 }
 
 .masthead-heading {
@@ -218,4 +223,9 @@ Info
   width: 30%;
   padding-left: 30px;
   box-sizing: border-box;
+  text-align: left;
+}
+
+.info h2 {
+  text-align: center;
 }
