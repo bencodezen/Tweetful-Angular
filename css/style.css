@@ -229,3 +229,14 @@ Info
 .info h2 {
   text-align: center;
 }
+
+/*
+--------------------------------------------
+Footer
+--------------------------------------------
+*/
+
+footer {
+  text-align: center;
+  padding: 3em 0;
+}
