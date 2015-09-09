@@ -201,3 +201,21 @@ Masthead
 .masthead-intro {
   margin-top: -0.2em;
 }
+
+/*
+--------------------------------------------
+Info
+--------------------------------------------
+*/
+
+.info-container {
+  text-align: center;
+}
+
+.info {
+  vertical-align: top;
+  display: inline-block;
+  width: 30%;
+  padding-left: 30px;
+  box-sizing: border-box;
+}
